@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>wallet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-938.000000, -458.000000)">
+            <g id="Group-21" transform="translate(334.000000, 362.000000)">
+                <g id="Group-20-Copy-2" transform="translate(519.000000, 0.000000)">
+                    <g id="wallet" transform="translate(79.000000, 90.000000)">
+                        <g id="Frame_-_24px">
+                            <rect id="Rectangle-path" x="0" y="0" width="72" height="72"></rect>
+                        </g>
+                        <g id="Line_Icons" transform="translate(6.000000, 6.000000)" fill-rule="nonzero" fill="#000000">
+                            <g id="Group">
+                                <path d="M57,24 L54,24 L54,18 C54,14.691 51.309,12 48,12 L46.854,12 L41.682,1.659 C40.986,0.264 39.333,-0.363 37.884,0.216 L8.421,12 L6,12 C2.691,12 0,14.691 0,18 L0,54 C0,57.309 2.691,60 6,60 L48,60 C51.309,60 54,57.309 54,54 L54,48 L57,48 C58.656,48 60,46.656 60,45 L60,27 C60,25.344 58.656,24 57,24 Z M37.551,6.81 L40.146,12 L24.579,12 L37.551,6.81 Z M47.991,54 L6,54 L6,18 L48,18 L48,24 L39,24 C38.205,24 37.44,24.318 36.879,24.882 L27.879,33.882 C26.706,35.052 26.706,36.948 27.879,38.124 L36.879,47.124 C37.44,47.682 38.205,48 39,48 L47.994,48 L47.991,54 Z M54,42 L40.242,42 L34.242,36 L40.242,30 L54,30 L54,42 Z" id="Shape"></path>
+                                <circle id="Oval" cx="42" cy="36" r="3"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

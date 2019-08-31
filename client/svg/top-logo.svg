@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="376px" viewBox="0 0 1440 376" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M114.788897,48 L33.2111026,48 L17.2111026,72 L98.7888974,72 L114.788897,48 Z M113.211103,72 L138.788897,72 L126,52.8166538 L113.211103,72 Z M108,84 L108,288 L138,288 C141.293227,288 144,285.291359 144,282 L144,84 L108,84 Z M96,84 L12,84 L12,282 C12,285.28123 14.7206449,288 18,288 L96,288 L96,84 Z M36,36 L120,36 L120,18 C120,14.7086414 117.293227,12 114,12 L42,12 C38.7206449,12 36,14.7187699 36,18 L36,36 Z M154.946797,74.6035422 C155.611133,75.5692722 156,76.7392238 156,78 L156,282 C156,291.916923 147.922498,300 138,300 L18,300 C8.0950792,300 0,291.9105 0,282 L0,78 C0,76.7392238 0.388866504,75.5692722 1.05320267,74.6035422 L24,40.1833462 L24,18 C24,8.08950024 32.0950792,0 42,0 L114,0 C123.922498,0 132,8.08307699 132,18 L132,40.1833462 L154.946797,74.6035422 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="156" height="300" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="147" height="147" rx="73.5"></rect>
+        <path d="M144.788897,69 L63.2111026,69 L47.2111026,93 L128.788897,93 L144.788897,69 Z M143.211103,93 L168.788897,93 L156,73.8166538 L143.211103,93 Z M138,105 L138,309 L168,309 C171.293227,309 174,306.291359 174,303 L174,105 L138,105 Z M126,105 L42,105 L42,303 C42,306.28123 44.7206449,309 48,309 L126,309 L126,105 Z M66,57 L150,57 L150,39 C150,35.7086414 147.293227,33 144,33 L72,33 C68.7206449,33 66,35.7187699 66,39 L66,57 Z M184.946797,95.6035422 C185.611133,96.5692722 186,97.7392238 186,99 L186,303 C186,312.916923 177.922498,321 168,321 L48,321 C38.0950792,321 30,312.9105 30,303 L30,99 C30,97.7392238 30.3888665,96.5692722 31.0532027,95.6035422 L54,61.1833462 L54,39 C54,29.0895002 62.0950792,21 72,21 L144,21 C153.922498,21 162,29.083077 162,39 L162,61.1833462 L184.946797,95.6035422 Z" id="path-5"></path>
+        <pattern id="pattern-6" width="14.2072848" height="14.2072848" x="15.7927152" y="6.79271523" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-7" transform="scale(0.295985099,0.295985099)"></use>
+        </pattern>
+        <image id="image-7" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAAFFSURBVGgF7djbDYMwDAXQBjEMYqyqY1WMxTppLiJIQIA8ariWkp8IPuweO60am67r7MstY8wwjuPH7dMz3uUua63p+/7r9rePIRW/9QmQzCV9ub0YgSIgzhxvQkjFb1EZBAdEKolkfJTqtnb7bv/zOJm58moRE0AzYgFoRawAGhE7gDZEEKAJcQjQgjgFaEBcAtgRUQBmRDSAFZEEYEQkA9gQWQAmRDaABVEEYEAUAx5H4EaGOyw+SMl66mbXzNOD4k6gCPNUY/CFwF1YOn5zRxJJRINqaUbUuZA/79sd3wm3xIdbdS60rXzo2XVCbO60/HxKJgFKKv4CkEziuyKBWAE0InYAbYggQBPiEKAFcQrQgLgEsCOiAMyIaAArIgnAiEgGsCGyAEyIbAALogjAgCgGPI7AX9w6F3JtqHMhnMWLFSrSD9jOnakVHpZYAAAAAElFTkSuQmCC"></image>
+        <rect id="path-8" x="0.5" y="0.75" width="40" height="40" rx="20"></rect>
+        <path d="M-10.2111026,-220 L-91.7888974,-220 L-107.788897,-196 L-26.2111026,-196 L-10.2111026,-220 Z M-11.7888974,-196 L13.7888974,-196 L1,-215.183346 L-11.7888974,-196 Z M-17,-184 L-17,20 L13,20 C16.2932266,20 19,17.2913586 19,14 L19,-184 L-17,-184 Z M-29,-184 L-113,-184 L-113,14 C-113,17.2812301 -110.279355,20 -107,20 L-29,20 L-29,-184 Z M-89,-232 L-5,-232 L-5,-250 C-5,-253.291359 -7.70677341,-256 -11,-256 L-83,-256 C-86.2793551,-256 -89,-253.28123 -89,-250 L-89,-232 Z M29.9467973,-193.396458 C30.6111335,-192.430728 31,-191.260776 31,-190 L31,14 C31,23.916923 22.9224975,32 13,32 L-107,32 C-116.904921,32 -125,23.9104998 -125,14 L-125,-190 C-125,-191.260776 -124.611133,-192.430728 -123.946797,-193.396458 L-101,-227.816654 L-101,-250 C-101,-259.9105 -92.9049208,-268 -83,-268 L-11,-268 C-1.07750245,-268 7,-259.916923 7,-250 L7,-227.816654 L29.9467973,-193.396458 Z" id="path-10"></path>
+        <pattern id="pattern-11" width="14.2072848" height="14.2072848" x="-139.207285" y="-282.207285" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-12" transform="scale(0.295985099,0.295985099)"></use>
+        </pattern>
+        <image id="image-12" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAAFFSURBVGgF7djbDYMwDAXQBjEMYqyqY1WMxTppLiJIQIA8ariWkp8IPuweO60am67r7MstY8wwjuPH7dMz3uUua63p+/7r9rePIRW/9QmQzCV9ub0YgSIgzhxvQkjFb1EZBAdEKolkfJTqtnb7bv/zOJm58moRE0AzYgFoRawAGhE7gDZEEKAJcQjQgjgFaEBcAtgRUQBmRDSAFZEEYEQkA9gQWQAmRDaABVEEYEAUAx5H4EaGOyw+SMl66mbXzNOD4k6gCPNUY/CFwF1YOn5zRxJJRINqaUbUuZA/79sd3wm3xIdbdS60rXzo2XVCbO60/HxKJgFKKv4CkEziuyKBWAE0InYAbYggQBPiEKAFcQrQgLgEsCOiAMyIaAArIgnAiEgGsCGyAEyIbAALogjAgCgGPI7AX9w6F3JtqHMhnMWLFSrSD9jOnakVHpZYAAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main" transform="translate(0.000000, -292.000000)">
+            <g id="Group-4" transform="translate(-0.226061, 251.000000)">
+                <g id="Group-3-Copy" transform="translate(533.226061, 36.000000)">
+                    <g id="Group-9">
+                        <rect id="Rectangle" x="0" y="0" width="375" height="375"></rect>
+                        <g id="Group" transform="translate(109.500000, 38.250000)">
+                            <use id="Combined-Shape" stroke="#7F7F7F" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="2" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g id="Group-8" transform="translate(6.000000, 6.000000)"></g>
+                        </g>
+                        <g id="Group-2" transform="translate(77.500000, 15.250000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Rectangle-Copy-2"></g>
+                            <g id="Combined-Shape" mask="url(#mask-4)">
+                                <use fill="#FFFFFF" xlink:href="#path-5"></use>
+                                <path stroke="#000000" stroke-width="1" d="M62.9435107,68.5 L145.723156,68.5 L129.056489,93.5 L46.276844,93.5 L62.9435107,68.5 Z M169.723156,93.5 L142.276844,93.5 L156,72.915266 L169.723156,93.5 Z M137.5,309.5 L137.5,104.5 L174.5,104.5 L174.5,303 C174.5,306.568121 171.568749,309.5 168,309.5 L137.5,309.5 Z M41.5,104.5 L126.5,104.5 L126.5,309.5 L48,309.5 C44.4438815,309.5 41.5,306.556752 41.5,303 L41.5,104.5 Z M150.5,57.5 L65.5,57.5 L65.5,39 C65.5,35.4432485 68.4438815,32.5 72,32.5 L144,32.5 C147.568749,32.5 150.5,35.4318794 150.5,39 L150.5,57.5 Z M184.534855,95.8869215 L184.530772,95.8808923 L161.5,61.334734 L161.5,39 C161.5,29.3572715 153.644408,21.5 144,21.5 L72,21.5 C62.3692731,21.5 54.5,29.3675907 54.5,39 L54.5,61.334734 L54.4160251,61.4606963 L31.4651446,95.8869215 C30.8397842,96.7959935 30.5,97.871943 30.5,99 L30.5,303 C30.5,312.632409 38.3692731,320.5 48,320.5 L168,320.5 C177.644408,320.5 185.5,312.642728 185.5,303 L185.5,99 C185.5,97.871943 185.160216,96.7959935 184.534855,95.8869215 Z" stroke-linejoin="square" fill="url(#pattern-6)"></path>
+                            </g>
+                            <rect id="Rectangle-Copy-3" stroke="#000000" mask="url(#mask-4)" x="0.5" y="0.5" width="146" height="146" rx="73"></rect>
+                        </g>
+                        <g id="Group-2-Copy" transform="translate(232.500000, 304.250000)">
+                            <mask id="mask-9" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <g id="Rectangle-Copy-2"></g>
+                            <g id="Combined-Shape" mask="url(#mask-9)">
+                                <use fill="#FFFFFF" xlink:href="#path-10"></use>
+                                <path stroke="#000000" stroke-width="1" d="M-92.0564893,-220.5 L-9.27684401,-220.5 L-25.9435107,-195.5 L-108.723156,-195.5 L-92.0564893,-220.5 Z M14.723156,-195.5 L-12.723156,-195.5 L1,-216.084734 L14.723156,-195.5 Z M-17.5,20.5 L-17.5,-184.5 L19.5,-184.5 L19.5,14 C19.5,17.5681206 16.5687495,20.5 13,20.5 L-17.5,20.5 Z M-113.5,-184.5 L-28.5,-184.5 L-28.5,20.5 L-107,20.5 C-110.556119,20.5 -113.5,17.5567515 -113.5,14 L-113.5,-184.5 Z M-4.5,-231.5 L-89.5,-231.5 L-89.5,-250 C-89.5,-253.556752 -86.5561185,-256.5 -83,-256.5 L-11,-256.5 C-7.43125053,-256.5 -4.5,-253.568121 -4.5,-250 L-4.5,-231.5 Z M29.5348554,-193.113079 L29.5307722,-193.119108 L6.5,-227.665266 L6.5,-250 C6.5,-259.642728 -1.35559225,-267.5 -11,-267.5 L-83,-267.5 C-92.6307269,-267.5 -100.5,-259.632409 -100.5,-250 L-100.5,-227.665266 L-100.583975,-227.539304 L-123.534855,-193.113079 C-124.160216,-192.204007 -124.5,-191.128057 -124.5,-190 L-124.5,14 C-124.5,23.6324093 -116.630727,31.5 -107,31.5 L13,31.5 C22.6444077,31.5 30.5,23.6427285 30.5,14 L30.5,-190 C30.5,-191.128057 30.1602158,-192.204007 29.5348554,-193.113079 Z" stroke-linejoin="square" fill="url(#pattern-11)"></path>
+                            </g>
+                            <rect id="Rectangle-Copy-3" stroke="#000000" mask="url(#mask-9)" x="1" y="1.25" width="39" height="39" rx="19.5"></rect>
+                        </g>
+                    </g>
+                </g>
+                <path d="M480.226061,406 L960.226061,53" id="Path-3" stroke="#000000"></path>
+                <path d="M47,371.975586 L433.452122,87.2744139" id="Path-3-Copy" stroke="#000000" transform="translate(240.226061, 229.625000) rotate(36.379257) translate(-240.226061, -229.625000) "></path>
+                <path d="M1007,371.975586 L1393.45212,87.2744139" id="Path-3-Copy-2" stroke="#000000" transform="translate(1200.226061, 229.625000) rotate(36.379257) translate(-1200.226061, -229.625000) "></path>
+                <text id="x.-1335" transform="translate(937.116389, 56.124931) rotate(-36.000000) translate(-937.116389, -56.124931) " font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="917.616389" y="60.1249314">x. 1335</tspan>
+                </text>
+                <text id="90°" transform="translate(981.226061, 211.000000) rotate(-360.000000) translate(-981.226061, -211.000000) " font-family="Helvetica" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="973.226061" y="215">90°</tspan>
+                </text>
+                <text id="90°-copy" transform="translate(460.226061, 247.000000) rotate(-360.000000) translate(-460.226061, -247.000000) " font-family="Helvetica" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="452.226061" y="251">90°</tspan>
+                </text>
+                <text id=".HQ" transform="translate(494.239745, 407.121106) rotate(-36.000000) translate(-494.239745, -407.121106) " font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="483.239745" y="411.121106">.HQ</tspan>
+                </text>
+                <rect id="Rectangle" fill="#000000" x="954.226061" y="400" width="6" height="6" rx="3"></rect>
+                <path d="M957.726061,403 L957.726061,346" id="Path-4" stroke="#000000"></path>
+                <path d="M929.726061,403 L929.726061,387" id="Path-4-Copy" stroke="#000000"></path>
+                <polygon id="Path-5" stroke="#000000" fill="#000000" points="483.226061 56 480.226061 59 486.226061 65 492.226061 59 489.226061 56"></polygon>
+                <path d="M1003.22606,230 C1003.22606,206.251756 983.974305,187 960.226061,187" id="Shape" stroke="#000000"></path>
+                <g id="Group-3" transform="translate(458.726061, 230.000000) rotate(-180.000000) translate(-458.726061, -230.000000) translate(437.226061, 187.000000)" stroke="#000000">
+                    <path d="M43,43 C43,19.2517558 23.7482442,0 0,0" id="Shape-Copy"></path>
+                    <polyline id="Path-Copy" points="0 34 9 34 9 43"></polyline>
+                </g>
+                <polyline id="Path" stroke="#000000" points="960.226061 221 969.226061 221 969.226061 230"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
