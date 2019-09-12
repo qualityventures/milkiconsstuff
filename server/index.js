@@ -2,8 +2,28 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
 const port = 8080;
+const stripe = require('stripe')('pk_test_TCWJYGPIJwsPmEKvrufHAzEX')
+
 app.use(bodyParser.json());
 app.use(express.static('public')); // Put images+zip in public folder
+app.use(function (req, res, next) {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader(
+    "Access-Control-Allow-Methods",
+    "GET, POST, OPTIONS, PUT, PATCH, DELETE"
+  );
+  res.setHeader(
+    "Access-Control-Allow-Headers",
+    "X-Requested-With,content-type"
+  );
+
+  // Set to true if you need the website to include cookies in the requests sent
+  // to the API (e.g. in case you use sessions)
+  res.setHeader("Access-Control-Allow-Credentials", true);
+
+  // Pass to next layer of middleware
+  next();
+});
 
 const activeCampaign = require("activecampaign");
 const ac = new activeCampaign(
@@ -34,6 +54,22 @@ app.post('/api/free-email', (req, res) => {
   }, (err) => {
     sendErr(res, err);
   });
+});
+
+app.post("/api/charge", (req, res) => {
+  let { amount } = req.body
+
+  stripe.charges.create({
+    amount: total,
+    source: req.body.stripeTokenId,
+    currency: 'usd'
+  }).then(function () {
+    console.log('Charge Successful')
+    res.json({ message: 'Successfully purchased items' })
+  }).catch(function () {
+    console.log('Charge Fail')
+    res.status(500).end()
+  })
 });
 
 function sendErr(res, err) {
