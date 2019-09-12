@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="57px" viewBox="0 0 60 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>content-bookmark-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-685.000000, -458.000000)">
+            <g id="Group-21" transform="translate(334.000000, 362.000000)">
+                <g id="Group-20-Copy" transform="translate(266.000000, 0.000000)">
+                    <g id="content-bookmark-3" transform="translate(79.000000, 90.000000)">
+                        <g id="Frame_-_24px">
+                            <rect id="Rectangle-path" x="0" y="0" width="72" height="72"></rect>
+                        </g>
+                        <g id="Line_Icons" transform="translate(6.000000, 6.000000)" fill-rule="nonzero" fill="#000000">
+                            <g id="Group">
+                                <polygon id="Shape" points="51 30.003 45 24.003 39 30.003 39 0.003 51 0.003"></polygon>
+                                <path d="M57,6.003 L54,6.003 L54,45.003 L36,45.003 C35.202,45.003 34.44,45.318 33.879,45.882 L33,46.761 L33,16.245 L36,13.245 L36,6.003 C35.202,6.003 34.44,6.318 33.879,6.882 L30,10.761 L26.121,6.882 C25.56,6.318 24.798,6.003 24,6.003 L3,6.003 C1.341,6.003 0,7.347 0,9.003 L0,48.003 C0,49.659 1.341,51.003 3,51.003 L22.758,51.003 L27.879,56.124 C28.464,56.709 29.232,57.003 30,57.003 C30.768,57.003 31.536,56.709 32.121,56.124 L37.242,51.003 L57,51.003 C58.659,51.003 60,49.659 60,48.003 L60,9.003 C60,7.347 58.659,6.003 57,6.003 Z M27,46.761 L26.121,45.882 C25.557,45.318 24.798,45.003 24,45.003 L6,45.003 L6,12.003 L22.758,12.003 L27,16.245 L27,46.761 Z" id="Shape"></path>
+                                <rect id="Rectangle-path" x="15" y="15.003" width="9" height="6"></rect>
+                                <rect id="Rectangle-path" x="9" y="24.003" width="15" height="6"></rect>
+                                <rect id="Rectangle-path" x="9" y="33.003" width="15" height="6"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
